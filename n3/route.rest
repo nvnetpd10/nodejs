@@ -1,0 +1,4 @@
+GEt http://localhost:3000/subscribers
+
+###
+GEt http://localhost:3000/localhost:3000/subscribers/15
